@@ -46,10 +46,11 @@ router.put("/:id", async (req, res) => {
 });
 
 // Delete one or multiple car listings by ID
-router.delete("/", async (req, res) => {
+router.delete("/:id", async (req, res) => {
   try {
     const { id } = req.params; // Expecting an array of IDs
-    const deleted = await Inventory.findByIdAndDelete(id);
+    console.log(id);
+    const deleted = await Inventory.findByIdAndDelete({_id : id});
     // const Multipledeleted = await Inventory.deleteMany({ _id: { $in: ids } });
     res.status(200).json({ message: ` item deleted` });
   } catch (error) {
