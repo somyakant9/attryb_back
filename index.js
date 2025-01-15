@@ -4,7 +4,7 @@ const cors = require("cors");
 require("dotenv").config({ path: "./config.env" });
 const inventoryRoutes = require("./routes/inventoryRoutes");
 const oemRoutes = require("./routes/oemRoutes");
-const authRoutes = require('./routes/authRoutes');
+const authRoutes = require("./routes/authRoutes");
 const protect = require("./middlewares/protect");
 const app = express();
 
@@ -18,6 +18,10 @@ app.use(cors());
 app.use(express.json());
 
 // Routes
+app.get("/", (req, res) => {
+  res.send("API is running...");
+});
+
 app.use("/api/oem", oemRoutes);
 app.use("/api/auth", authRoutes);
 app.use("/api/inventory", protect, inventoryRoutes);
