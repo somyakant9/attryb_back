@@ -1,0 +1,182 @@
+[
+  {
+    "model": "Honda City",
+    "year": 2015,
+    "listPrice": 12000,
+    "availableColors": ["Red", "White", "Silver"],
+    "mileage": 18,
+    "powerBHP": 120,
+    "maxSpeed": 180
+  },
+  {
+    "model": "Toyota Corolla",
+    "year": 2018,
+    "listPrice": 15000,
+    "availableColors": ["Black", "White", "Blue"],
+    "mileage": 20,
+    "powerBHP": 130,
+    "maxSpeed": 190
+  },
+  {
+    "model": "Maruti Swift",
+    "year": 2020,
+    "listPrice": 10000,
+    "availableColors": ["Red", "Gray", "White"],
+    "mileage": 22,
+    "powerBHP": 90,
+    "maxSpeed": 160
+  },
+  {
+    "model": "Hyundai i20",
+    "year": 2019,
+    "listPrice": 11000,
+    "availableColors": ["Blue", "White", "Black"],
+    "mileage": 21,
+    "powerBHP": 100,
+    "maxSpeed": 170
+  },
+  {
+    "model": "Ford Ecosport",
+    "year": 2017,
+    "listPrice": 14000,
+    "availableColors": ["Yellow", "Black", "Silver"],
+    "mileage": 19,
+    "powerBHP": 110,
+    "maxSpeed": 180
+  },
+  {
+    "model": "BMW X1",
+    "year": 2021,
+    "listPrice": 35000,
+    "availableColors": ["White", "Black", "Gray"],
+    "mileage": 15,
+    "powerBHP": 190,
+    "maxSpeed": 220
+  },
+  {
+    "model": "Audi A3",
+    "year": 2020,
+    "listPrice": 32000,
+    "availableColors": ["Red", "Black", "Blue"],
+    "mileage": 16,
+    "powerBHP": 200,
+    "maxSpeed": 240
+  },
+  {
+    "model": "Mercedes-Benz C-Class",
+    "year": 2021,
+    "listPrice": 40000,
+    "availableColors": ["Silver", "White", "Black"],
+    "mileage": 14,
+    "powerBHP": 250,
+    "maxSpeed": 250
+  },
+  {
+    "model": "Tata Nexon",
+    "year": 2019,
+    "listPrice": 13000,
+    "availableColors": ["Blue", "White", "Gray"],
+    "mileage": 20,
+    "powerBHP": 120,
+    "maxSpeed": 180
+  },
+  {
+    "model": "Mahindra Thar",
+    "year": 2022,
+    "listPrice": 20000,
+    "availableColors": ["Red", "Black", "Silver"],
+    "mileage": 15,
+    "powerBHP": 130,
+    "maxSpeed": 160
+  },
+  {
+    "model": "Volkswagen Polo",
+    "year": 2018,
+    "listPrice": 12000,
+    "availableColors": ["White", "Gray", "Blue"],
+    "mileage": 19,
+    "powerBHP": 105,
+    "maxSpeed": 175
+  },
+  {
+    "model": "Skoda Rapid",
+    "year": 2017,
+    "listPrice": 14000,
+    "availableColors": ["Black", "White", "Brown"],
+    "mileage": 18,
+    "powerBHP": 115,
+    "maxSpeed": 180
+  },
+  {
+    "model": "Chevrolet Cruze",
+    "year": 2016,
+    "listPrice": 16000,
+    "availableColors": ["Red", "Blue", "White"],
+    "mileage": 17,
+    "powerBHP": 150,
+    "maxSpeed": 210
+  },
+  {
+    "model": "Nissan Micra",
+    "year": 2015,
+    "listPrice": 9000,
+    "availableColors": ["Orange", "White", "Black"],
+    "mileage": 23,
+    "powerBHP": 85,
+    "maxSpeed": 150
+  },
+  {
+    "model": "Renault Duster",
+    "year": 2020,
+    "listPrice": 15000,
+    "availableColors": ["White", "Brown", "Black"],
+    "mileage": 19,
+    "powerBHP": 140,
+    "maxSpeed": 190
+  },
+  {
+    "model": "Honda CR-V",
+    "year": 2018,
+    "listPrice": 25000,
+    "availableColors": ["Silver", "Black", "White"],
+    "mileage": 18,
+    "powerBHP": 160,
+    "maxSpeed": 200
+  },
+  {
+    "model": "Suzuki Baleno",
+    "year": 2021,
+    "listPrice": 12000,
+    "availableColors": ["Blue", "White", "Gray"],
+    "mileage": 22,
+    "powerBHP": 95,
+    "maxSpeed": 165
+  },
+  {
+    "model": "Hyundai Creta",
+    "year": 2021,
+    "listPrice": 18000,
+    "availableColors": ["Red", "Black", "Silver"],
+    "mileage": 20,
+    "powerBHP": 140,
+    "maxSpeed": 190
+  },
+  {
+    "model": "Kia Seltos",
+    "year": 2021,
+    "listPrice": 17000,
+    "availableColors": ["White", "Orange", "Blue"],
+    "mileage": 21,
+    "powerBHP": 135,
+    "maxSpeed": 185
+  },
+  {
+    "model": "Jeep Compass",
+    "year": 2020,
+    "listPrice": 28000,
+    "availableColors": ["Black", "White", "Silver"],
+    "mileage": 17,
+    "powerBHP": 170,
+    "maxSpeed": 210
+  }
+]
